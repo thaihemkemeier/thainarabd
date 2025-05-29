@@ -42,7 +42,7 @@ CREATE TABLE MATERIAS (
 GO
 -- Inserção de alunos
 INSERT INTO ALUNOS (NOME) VALUES ('Pedro');
-INSERT INTO ALUNOS (NOME) VALUES ('Mateus');
+INSERT INTO ALUNOS (NOME) VALUES ('Thainara');
 GO
 
 -- Inserção de cursos
